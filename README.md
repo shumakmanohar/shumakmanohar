@@ -2,7 +2,7 @@
 
 Master's in Computer Applications with over 3+ years of freelancing experience in designing and developing scalable web applications. Proficient in a wide range of technologies, including React, Next.js, AWS, and Kubernetes. Passionate about creating seamless user experiences and optimizing performance across platforms.
 
-- Check out my [website](https://www.shumak.co/) to learn more about me.
+- Check out my [website](https://shumak.vercel.app/) to learn more about me.
 - Explore my [blog](https://shumak.hashnode.dev/) where I share insights and learnings.
 
 ## 📦 Toolbox
